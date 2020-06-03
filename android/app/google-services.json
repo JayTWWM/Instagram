@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730920311299",
+    "firebase_url": "https://flippo-306f1.firebaseio.com",
+    "project_id": "flippo-306f1",
+    "storage_bucket": "flippo-306f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730920311299:android:1f5149a20ba57b4c904c36",
+        "android_client_info": {
+          "package_name": "com.twwm.Flippo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730920311299-8l183hre0suadpj0gs2k991kaof9cbl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwWsw1d99Aw5PzA7hLt7K2wflWpdYYPj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730920311299-8l183hre0suadpj0gs2k991kaof9cbl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
