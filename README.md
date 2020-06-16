@@ -1,6 +1,6 @@
 # Instagram
 
-A new Flutter project.
+A copy of instagram.
 
 ## Getting Started
 A simple flutter app with the following features:
