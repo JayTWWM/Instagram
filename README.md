@@ -1,4 +1,4 @@
-# Flippo
+# Instagram
 
 A new Flutter project.
 
